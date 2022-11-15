@@ -19,3 +19,5 @@ Write a program that will balance the scales. The program takes two integers rep
 ## Task 3<br>
 Write a program that will automatically convert any Serbian text into Morse code.<br>
 ## Task 4<br>
+Write a program that throws out all possible combinations of putting +, -, or nothing between the numbers 1,2,...,9 (in this order) so that the calculated result is equal to 100. For example: 1+ 2 + 3 - 4 + 5 + 6 + 78 + 9 = 100.<br>
+## Task 5<br>
