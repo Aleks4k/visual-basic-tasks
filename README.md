@@ -21,3 +21,4 @@ Write a program that will automatically convert any Serbian text into Morse code
 ## Task 4<br>
 Write a program that throws out all possible combinations of putting +, -, or nothing between the numbers 1,2,...,9 (in this order) so that the calculated result is equal to 100. For example: 1+ 2 + 3 - 4 + 5 + 6 + 78 + 9 = 100.<br>
 ## Task 5<br>
+Write a program that converts a Roman numeral to an Arabic numeral. The input is the number N, composed of the symbols {I,V,X,L,C,D,M}. The output is an Arabic number in base 10.
