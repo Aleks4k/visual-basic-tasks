@@ -17,3 +17,5 @@ Phone numbers containing 0 or 1 are rejected because they do not represent lette
 ## Task 2<br>
 Write a program that will balance the scales. The program takes two integers representing the weights of the left and right sides of the scale, as well as an array of values representing the various weights that can be used to balance the scale. The program should determine if there is a combination of at most two weights from a series of weights that can be placed only on one side, only on the other side, or on both sides of the scale so that the weights of the left and right sides are equal. For example: V(left) = 5, V(right)= 10, Weights = {1,2,3,5,12}. In this situation the program should print V(left)+2+3.<br>
 ## Task 3<br>
+Write a program that will automatically convert any Serbian text into Morse code.<br>
+## Task 4<br>
